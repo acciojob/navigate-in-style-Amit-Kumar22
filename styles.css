@@ -1,9 +1,12 @@
 /*  your css code here. If applicable */
 .container {
-	display:flex;
+	
 	background-color: rgb(211, 211, 211);
 	padding: 10px;
 	
+}
+ul{
+	display:flex;
 }
  li{
 	display: inline;
