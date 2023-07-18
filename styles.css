@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
-.nav-baar ul{
+.container ul{
+	display:flex;
 	background-color: #D3D3D3;
 	padding: 10px;
 	
